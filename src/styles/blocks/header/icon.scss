@@ -12,18 +12,18 @@
   }
 
   &--phone {
-    background-image: url(../icons/icon-phone.png);
+    background-image: url(../icons/icon-phone.svg);
   }
 
   &--menu {
-    background-image: url(../icons/icon-menu.png);
+    background-image: url(../icons/icon-menu.svg);
 
     &:hover {
-      background-image: url(../icons/icon-menu-close.png);
+      background-image: url(../icons/icon-menu-close.svg);
     }
   }
 
   &--close {
-    background-image: url(../icons/icon-close.png);
+    background-image: url(../icons/icon-close.svg);
   }
 }
