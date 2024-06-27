@@ -30,6 +30,7 @@ This landing page is dedicated to **The Metropolitan Museum of Art**, also known
 - When the burger menu is activated, the scroll disappears;
 - Closing the menu by clicking on link.
 - Click on the phone icon, a pop-up menu opens:
+
   <img src="test-phone.png"><img src="test-phone2.png">
 
 ### SCSS
