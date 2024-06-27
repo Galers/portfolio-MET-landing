@@ -8,7 +8,7 @@
 
 ## Link by layout page
 
-[DEMO LINK](https://galers.github.io/projects-portfolio-MET-landing/)
+[DEMO LINK](https://galers.github.io/portfolio-MET-landing/)
 
 ## Link by figma design
 
